@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schramm2&label=Profile%20views&color=0e75b6&style=flat" alt="schramm2" /> </p>
 
-- 🌱 I’m currently learning **a BCOM in Computer Science and Information Systems**
+- 🌱 I’m currently studying **a BCOM in Computer Science and Information Systems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Schramm2?tab=repositories](https://github.com/Schramm2?tab=repositories)
 
