@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Matthew Schramm</h1>
-<h3 align="center">A Student from South Africa Studying Computer Science and Information Systems</h3>
+<h3 align="center">A Student from South Africa who has recently graduated with a  BCOM in Computer Science and Information Systems, who is currently pursuing their honours in Information Systems</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schramm2&label=Profile%20views&color=0e75b6&style=flat" alt="schramm2" /> </p>
 
-- 🌱 I’m currently studying **a BCOM in Computer Science and Information Systems**
+- 🌱 I’m currently completing my Honours in Information Systems
 
 - 👨‍💻 All of my projects are available at [https://github.com/Schramm2?tab=repositories](https://github.com/Schramm2?tab=repositories)
 
-- 💬 Ask me about **Java, Python, Visual Studios, Information Systems and Computer Science**
+- 💬 Ask me about **Java, Python, Visual Studios, Firebase, Vue.js, Springboot, Node.js, Information Systems and Computer Science**
 
 - 📫 How to reach me **mattschramm1235@gmail.com**
 
