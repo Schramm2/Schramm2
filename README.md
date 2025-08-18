@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently completing my Honours in Information Systems
 
-- 👨‍💻 All of my projects are available at [https://github.com/Schramm2?tab=repositories](https://github.com/Schramm2?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://matthew-schramm-portfolio.onrender.com](https://matthew-schramm-portfolio.onrender.com)
 
-- 💬 Ask me about **Java, Python, Visual Studios, Firebase, Vue.js, Springboot, Node.js, Information Systems and Computer Science**
+- 💬 Ask me about **Java, Python, Visual Studios, Firebase, React, Vue.js, Springboot, Node.js, Information Systems and Computer Science**
 
 - 📫 How to reach me **mattschramm1235@gmail.com**
 
