@@ -1,29 +1,87 @@
-<h1 align="center">Hi 👋, I'm Matthew Schramm</h1>
-<h3 align="center">A Student from South Africa who has recently graduated with a  BCOM in Computer Science and Information Systems, who is currently pursuing their honours in Information Systems</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=schramm2&label=Profile%20views&color=0e75b6&style=flat" alt="schramm2" /> </p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,35:1D4ED8,70:14B8A6,100:F59E0B&text=Matthew%20Schramm&fontColor=FFFFFF&fontSize=50&fontAlignY=38&desc=Building%20AI%20systems%2C%20agent%20workflows%2C%20and%20a%20life%20around%20useful%20technology&descAlignY=58&animation=fadeIn" alt="Matthew Schramm header" />
 
-- 🌱 I’m currently completing my Honours in Information Systems
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2900&pause=900&color=14B8A6&center=true&vCenter=true&width=950&lines=Cape+Town+%E2%86%92+UCT+%E2%86%92+Ubundi;Graduate+AI+Engineer+building+agentic+systems;Computer+Science+%2B+Information+Systems+background;Context%2C+memory%2C+evals%2C+internal+tools%2C+Physical+AI;Using+AI+as+an+amplifier%2C+not+a+replacement+for+thinking" alt="Typing SVG" />
+  </a>
 
-- 👨‍💻 All of my projects are available at [https://matthew-schramm-portfolio.vercel.app](https://matthew-schramm-portfolio.vercel.app)
+  <br />
 
-- 💬 Ask me about **Java, Python, Visual Studios, Firebase, React, Vue.js, Springboot, Node.js, Information Systems and Computer Science**
+  <a href="https://www.mattschramm.com">
+    <img src="https://img.shields.io/badge/Portfolio-mattschramm.com-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/matthew-schramm-476523253/">
+    <img src="https://img.shields.io/badge/LinkedIn-Matthew%20Schramm-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/matthewubundi">
+    <img src="https://img.shields.io/badge/Work%20GitHub-matthewubundi-111827?style=for-the-badge&logo=github&logoColor=white" alt="Work GitHub" />
+  </a>
+  <a href="mailto:mattschramm1235@gmail.com">
+    <img src="https://img.shields.io/badge/Personal%20Email-mattschramm1235%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal email" />
+  </a>
 
-- 📫 How to reach me **mattschramm1235@gmail.com**
+  <br />
+  <br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/matthew schramm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="matthew schramm" height="30" width="40" /></a>
-<a href="https://instagram.com/matthewschramm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matthewschramm1" height="30" width="40" /></a>
-<a href="https://discord.gg/.schramm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".schramm" height="30" width="40" /></a>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=Schramm2&label=Profile%20views&color=14b8a6&style=flat-square" alt="Profile views" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=schramm2&show_icons=true&locale=en&layout=compact" alt="schramm2" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=schramm2&show_icons=true&locale=en" alt="schramm2" /></p>
+## Hey, I am Matthew
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=schramm2&" alt="schramm2" /></p>
+I am a South African builder from Cape Town with a background in Computer Science and Information Systems, now working as a Graduate AI Engineer at [Ubundi](https://ubundi.com/).
+
+My life has moved from university projects and full-stack systems into the strange, exciting middle layer of AI work: agents, context, memory, internal tools, evaluation loops, and the human workflows that make AI actually useful.
+
+This is my personal GitHub, so it carries the full arc:
+
+- where I started learning to build software
+- the projects that helped me grow
+- the systems I am building now
+- the way I am trying to use AI responsibly in my own life and work
+- the ideas I am exploring next
+
+> This profile is personal. Ubundi work is described here only at a public-safe level.
+
+---
+
+## What I Am Building My Life Around
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>AI as a Thinking Partner</h3>
+      <p>I use AI deeply, but not as a shortcut around judgment. The goal is to pair human context, taste, review, and accountability with AI's speed and breadth.</p>
+    </td>
+    <td width="50%">
+      <h3>Context-Aware Systems</h3>
+      <p>I care about how software and agents remember, retrieve, structure, and apply the right information at the right time.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Agent Workflows</h3>
+      <p>I am interested in the operating layer around agents: tools, memory, routing, approvals, verification, and clean handoffs between humans and software.</p>
+    </td>
+    <td width="50%">
+      <h3>Useful Proof Of Work</h3>
+      <p>I want my projects to be more than demos: they should teach me something, solve a real workflow problem, or make a complex system easier to inspect.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Life And Work Right Now
+
+```text
+Current role       Graduate AI Engineer at Ubundi
+Home base          Cape Town, South Africa
+Education          BCom Computer Science + Information Systems
+Honours            Information Systems, University of Cape Town
+Working edge       Context systems, agent workflows, internal tools, evals
+Learning edge      Physical AI data quality and robotics trajectory QA
+Personal edge      Building an AI-native operating system for my own work
