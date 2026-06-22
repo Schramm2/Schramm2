@@ -44,8 +44,6 @@ This is now my combined GitHub profile, so it carries the full arc:
 - the way I am trying to use AI responsibly in my own life and work
 - the ideas I am exploring next
 
-> This profile is personal. Ubundi work is described here only at a public-safe level.
-
 ---
 
 ## What I Am Building Toward
