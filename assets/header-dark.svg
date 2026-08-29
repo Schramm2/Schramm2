@@ -26,7 +26,7 @@
 
   <text x="40" y="102" font-size="52" font-weight="600" letter-spacing="-1.5" fill="#EDEDED">Matthew Schramm</text>
   <text x="42" y="140" font-size="17" fill="#A1A1A1">AI engineer at Ubundi. Cape Town, South Africa.</text>
-  <text x="42" y="168" font-size="14" fill="#6E6E6E">Context systems · agent workflows · evals · internal tools</text>
+  <text x="42" y="168" font-size="14" fill="#6E6E6E">Context systems · agent infrastructure · evals · physical AI data</text>
 
   <rect x="42" y="196" width="1116" height="1" fill="#262626"/>
 </svg>
