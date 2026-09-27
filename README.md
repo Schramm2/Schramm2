@@ -50,6 +50,12 @@ Structured communication identity, text transformation, and a visible correction
 [**Personal Codex showcase**](https://github.com/Schramm2/personal-codex-agent-showcase)<br />
 A personal RAG interface with response modes, document workflows, and source attribution. A deterministic demo with synthetic data.
 
+[**Local Context Engine**](https://github.com/Schramm2/Local-Context-Engine)<br />
+Chat with your PDFs through Llama 3.2 on Ollama, fully offline. Includes a feedback loop that logs hallucinations.
+
+[**MyAdvisor**](https://github.com/Schramm2/CS-Capstone-Project)<br />
+UCT final-year capstone, built with two teammates. A role-based advising and booking platform on Spring Boot, Vaadin, and MySQL.
+
 ## How I work
 
 **Use AI fully. Keep human judgment.** I use Claude Code, Codex, and my own agents to explore and build. I stay responsible for the result.
