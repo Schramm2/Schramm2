@@ -1,0 +1,9 @@
+# Settings: https://github.com/pedrocatalao/github-cool-readme#settings
+user: Schramm2
+cards: [summary, languages]
+style: classic
+include:
+  private: true
+  orgs: true
+summary:
+  ring: github

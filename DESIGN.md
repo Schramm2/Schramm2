@@ -86,12 +86,15 @@ The three paths use 26px strokes with round caps. The SVG field has square corne
 
 Profile links, headings, lists, and body text use GitHub's native Markdown presentation.
 
+**Stats cards.** Two classic [github-cool-readme](https://github.com/pedrocatalao/github-cool-readme) cards (summary and languages) sit between the `cool-readme` markers in the README. They follow GitHub's light and dark themes on a transparent background. `cool-readme.yml` holds their settings; a scheduled workflow publishes them to the `cards` branch. Keep the classic style: the dot-matrix OLED style competes with the header.
+
 ## Do's and Don'ts
 
 ### Do:
 - **Do** keep profile facts and links in native GitHub Markdown.
 - **Do** use the theme and viewport-specific SVG variants, with the 600px breakpoint.
 - **Do** keep motion finite and disable it for reduced-motion settings.
+- **Do** keep the projects table to one line of purpose and one short stack per row.
 
 ### Don't:
 - **Don't** add scripts, external font downloads, or generated raster artwork to the production header.
